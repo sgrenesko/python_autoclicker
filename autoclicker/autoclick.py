@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 def auto_clicker(interval, clicks):
-    print("Auto Clicker will start in 10 seconds. Move the mouse to the desired position.")
+    print("\nAuto Clicker will start in 10 seconds. Move the mouse to the desired position.")
     time.sleep(10)
     print("Auto Clicker started.")
     
